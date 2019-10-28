@@ -1,6 +1,6 @@
 import React from "react";
 import { Route, Redirect, Switch } from "react-router-dom";
-import Movies from "./components/movie";
+import Movies from "./components/movies";
 import Rentals from "./components/rentals";
 import NotFound from "./components/notFound";
 import Customers from "./components/customers";
