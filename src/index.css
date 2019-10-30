@@ -9,10 +9,14 @@ body {
 }
 
 .navbar {
-  margin-bottom: 30px
+  margin-bottom: 30px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.clickable {
+  cursor: pointer;
 }
